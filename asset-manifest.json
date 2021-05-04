@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/uncanny-valley/static/css/main.04957170.chunk.css",
+    "main.js": "/uncanny-valley/static/js/main.8caa0a89.chunk.js",
+    "main.js.map": "/uncanny-valley/static/js/main.8caa0a89.chunk.js.map",
+    "runtime-main.js": "/uncanny-valley/static/js/runtime-main.830cb3b7.js",
+    "runtime-main.js.map": "/uncanny-valley/static/js/runtime-main.830cb3b7.js.map",
+    "static/js/2.0c92eb72.chunk.js": "/uncanny-valley/static/js/2.0c92eb72.chunk.js",
+    "static/js/2.0c92eb72.chunk.js.map": "/uncanny-valley/static/js/2.0c92eb72.chunk.js.map",
+    "static/js/3.5ef3830b.chunk.js": "/uncanny-valley/static/js/3.5ef3830b.chunk.js",
+    "static/js/3.5ef3830b.chunk.js.map": "/uncanny-valley/static/js/3.5ef3830b.chunk.js.map",
+    "index.html": "/uncanny-valley/index.html",
+    "static/css/main.04957170.chunk.css.map": "/uncanny-valley/static/css/main.04957170.chunk.css.map",
+    "static/js/2.0c92eb72.chunk.js.LICENSE.txt": "/uncanny-valley/static/js/2.0c92eb72.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.830cb3b7.js",
+    "static/js/2.0c92eb72.chunk.js",
+    "static/css/main.04957170.chunk.css",
+    "static/js/main.8caa0a89.chunk.js"
+  ]
+}
